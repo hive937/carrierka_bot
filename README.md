@@ -1,4 +1,4 @@
-# MapsReviewsBot
+# Карьерка Bot
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
 [![Selenium](https://img.shields.io/badge/ChatGPT-43B02A?style=flat-square&logo=ChatGPT&logoColor=white)](https://www.openapi.com/)
 
